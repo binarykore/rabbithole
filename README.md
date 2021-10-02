@@ -1,4 +1,4 @@
-# RabbitHole
+# Rabbit Hole
 Data Science made using PHP
 
 ### Infographics [0]
