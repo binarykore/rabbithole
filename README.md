@@ -11,5 +11,6 @@ Data Science made using PHP
 ### Real-Time usage for Data Science?
 * It can be used on your Apps someday, such as ID and Profile Name, wherein a specific user will be notified in his Profile for changes. As Facebook has shut its "doors" on all about Cyber Security concerns. You can recreate the Rabbit Hole Algorithm as part of Web Scraping and Machine Learning on the admin-side of your own Platform.
 
-### Copyright since ( 2021 )
-( C ) - [BinaryKorra](https://github.com/binarykorra), 09225205353
+
+### Copyright since ( 2023 )
+( C ) - [BinaryKore](https://github.com/binarykore), 09225205353
